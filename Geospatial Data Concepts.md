@@ -248,7 +248,7 @@ gdf.plot(marker='*', color='green', markersize=20, figsize=(16, 16));
 ![png](output_14_0.png)
 
 
-Here I am going through an example of the 2016 Geohack week, however their specific file did not load properly so I took a shape file from the United States Census Bureau for tutorial purposes. 
+I took a shape file from the United States Census Bureau for tutorial purposes. 
 
 
 
