@@ -1103,4 +1103,4 @@ wfs_gdf.plot(ax=world.plot(alpha=1), figsize=(10, 6),
 
 
 ## In Summation, 
-We see in this tutorial created by the eScience Institute that GeoPandas draws its power and simplicity by leveraging the Pandas and core geospatial libraries.
+In this tutorial created by the eScience Institute, we saw that GeoPandas draws its power and simplicity from leveraging Pandas and core geospatial libraries.
